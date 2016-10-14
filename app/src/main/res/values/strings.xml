@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Discover</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_in">Sign In</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_loading">Discover</string>
+    <string name="title_activity_sign_up">Sign Up</string>
+    <string name="chat_with">Chat with _</string>
+    <string name="send">Send</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="chat_choose">Choose who to chat with</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="connection_lost">Connection lost. Reconnecting...</string>
+    <string name="reconnected">Reconnected!</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_location_track">Location Tracker</string>
+    <string name="title_activity_chat">Chat Room</string>
+
+    <string name="title_activity_tutors_list">TutorsList</string>
+    <string name="txtEmpty">List is empty</string>
+    <string name="title_activity_tutor_list">Tutor List</string>
+    <string name="title_activity_seeker_list">Seeker List</string>
+    <string name="title_activity_location_services_access">LocationServicesAccess</string>
+    <string name="title_activity_teaching_topics">TeachingTopicsActivity</string>
+
+
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Friends</string>
+    <string name="nav_item_notifications">Messages</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Friends</string>
+    <string name="title_home">Home</string>
+</resources>
